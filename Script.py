@@ -75,6 +75,6 @@ def detect_interact_prompt():
 
 
 if __name__ == "__main__":
-    print("🚀 Бот запущен! Ожидание 3 секунды...")
-    time.sleep(3)
+    print("🚀 Бот запущен! Ожидание 5 секунд...")
+    time.sleep(5)
     move_character()
